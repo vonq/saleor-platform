@@ -18,6 +18,7 @@ services:
       - jaeger
     volumes:
       - ./saleor/saleor/:/app/saleor:Z
+      - ./saleor/api/:/app/api:Z
       - ./saleor/templates/:/app/templates:Z
       - ./saleor/tests/:/app/tests
       # shared volume between worker and api for media
