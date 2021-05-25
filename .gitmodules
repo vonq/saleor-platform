@@ -5,7 +5,7 @@
 [submodule "saleor-storefront"]
 	path = saleor-storefront
 	url = https://github.com/vonq/saleor-storefront
-	branch = master
+	branch = develop
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
 	url = https://github.com/mirumee/saleor-dashboard.git
