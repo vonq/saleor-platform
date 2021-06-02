@@ -1,7 +1,7 @@
 [submodule "saleor"]
 	path = saleor
 	url = https://github.com/vonq/saleor.git
-	branch = jmp/pkb-integration
+	branch = jmp/pkb-integration-master
 [submodule "saleor-storefront"]
 	path = saleor-storefront
 	url = https://github.com/vonq/saleor-storefront
