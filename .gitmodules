@@ -12,5 +12,5 @@
 	branch = master
 [submodule "vacancy-service"]
 	path = vacancy-service
-	url = https://github.com/vonq/integration-layer.git
+	url = https://github.com/vonq/integration-layer
 	branch = vacancy-service
