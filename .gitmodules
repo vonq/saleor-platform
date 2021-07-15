@@ -5,8 +5,12 @@
 [submodule "saleor-storefront"]
 	path = saleor-storefront
 	url = https://github.com/vonq/saleor-storefront
-	branch = develop
+	branch = feature/vacancies
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
-	url = https://github.com/mirumee/saleor-dashboard.git
-	branch = 3.0
+	url = https://github.com/vonq/saleor-dashboard.git
+	branch = master
+[submodule "vacancy-service"]
+	path = vacancy-service
+	url = https://github.com/vonq/integration-layer.git
+	branch = vacancy-service
